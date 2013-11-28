@@ -32,7 +32,7 @@ gem 'rails_12factor', group: :production
 gem 'spree', :github => "spree/spree", :branch => "1-3-stable"
 gem 'spree_auth_devise', :github => "spree/spree_auth_devise", :branch => "1-3-stable"
 gem 'spree_fancy', :github => "spree/spree_fancy", :branch => "1-3-stable"
-#gem 'spree_attach_document', :github => "harsshhfs/spree_attach_document", :branch => "1-3-stable"
+gem 'spree_attach_document', :github => "harsshhfs/spree_attach_document", :branch => "1-3-stable"
 
 #gem 'spree_email_to_friend', :github => "spree/spree_email_to_friend", :branch => "1-3-stable"
 #gem 'contact_us', '~> 0.4.0'

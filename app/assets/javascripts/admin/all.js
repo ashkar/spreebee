@@ -12,3 +12,5 @@
 
 //= require_tree .
 //= require admin/spree_fancy
+
+//= require admin/spree_attach_document
